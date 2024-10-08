@@ -15,4 +15,4 @@ You input a Python file (e.g., my_script.py) to be encrypted.
 The script generates a new file (e.g., obfuscated_script.py), which contains encrypted code and decryption logic.
 Running obfuscated_script.py will execute the original logic after decrypting it in memory.
 
-This program can be used to encrypt your python-based reverse shell codes.
+This program can be used to encrypt your python-based reverse shell codes, and it will help in evading the anti-virus solution.
