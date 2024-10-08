@@ -1,4 +1,5 @@
 How it works:
+
 It reads the code from the specified input Python file.
 
 The code is encrypted using the XOR operation with a randomly generated numeric key.
